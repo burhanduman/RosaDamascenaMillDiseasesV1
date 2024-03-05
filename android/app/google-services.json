@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881951524233",
+    "project_id": "rosadamascena-331a6",
+    "storage_bucket": "rosadamascena-331a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881951524233:android:e2db1695201fbbd83b0d58",
+        "android_client_info": {
+          "package_name": "com.example.predicting_rose_diseases"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA43zqAm4mo1v5issnmsuHjINHZYciZ7sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
